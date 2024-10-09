@@ -1,0 +1,15 @@
+.x{
+     
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+     
+
+ }
+ .y{
+     background: #000;
+     width: 100px;
+     height: 50px;
+     
+ }
